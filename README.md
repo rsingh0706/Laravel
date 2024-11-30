@@ -20,7 +20,7 @@ sudo apt install curl git -y
 * Clone the repository
 
 ```bash
-https://github.com/rsingh0706/Laravel.git
+git clone https://github.com/rsingh0706/Laravel.git
 ```
 
 ## Linux Essentials
